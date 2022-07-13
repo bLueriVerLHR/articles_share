@@ -8,3 +8,5 @@
 - [控制台输出颜色控制](/docs/colorful_console.md)
 - [如何正确的引用网络文献](/docs/how_to_site_web_articles.md)
 - [写电子邮件联系导师时的一些小贴士](/docs/how_to_email_teacher.md)
+- [短路逻辑四元式生成思路以及反填思路](/docs/shortcut-logic.md)
+- [数组的初始化列表的实现](/docs/init-list.md)
